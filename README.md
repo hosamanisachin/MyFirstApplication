@@ -89,10 +89,14 @@ textname.setText("Name"+getname);
 ___________________________________________________________
 
 MainActivity
- ![Alt text](https://github.com/hosamanisachin/MyFirstApplication/blob/master/1.png) 
+
+![Alt text](https://github.com/hosamanisachin/MyFirstApplication/blob/master/1.png) 
+
 img1
 
 ___________________________________________________________
 Main2Activity
-img2
+
+![Alt text]( MyFirstApplication/2.png ) 
+
 
