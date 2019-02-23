@@ -97,6 +97,6 @@ img1
 ___________________________________________________________
 Main2Activity
 
-![Alt text]( MyFirstApplication/2.png ) 
+![Alt text](https://github.com/hosamanisachin/MyFirstApplication/blob/master/2.png) 
 
-
+img2
